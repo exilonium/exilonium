@@ -1,6 +1,14 @@
 # Hey there
 
-**OS:** Arch Linux (btw)
+---
+
+```bash
+#!/bin/bash
+echo "I use Arch btw"
+# Tracks: nothing | Respects: your privacy
+```
+
+**OS:** Arch Linux BTW (UwU)
 
 **Fixing:** `linux.exe stopped responding`
 
@@ -10,9 +18,15 @@
 
 ## About Me
 
-I write Python when I need things done and Rust when I want to feel smart. I spend more time on Monkeytype than actually typing code, watch anime while waiting for compilation, and read privacy policies for fun.
+```
+I write Python when I need things done and
+Rust when I want to feel smart.
+I spend more time on Monkeytype than actually typing code,
+watch anime while waiting for compilation,and
+read privacy policies for fun.
+```
 
-**Stack:** Python | Rust 🦀 | Bash | Sometimes Frontend | React | Tailwind | TS/JS | Html/CSS
+**Stack:** Python | Rust 🦀 | Bash | Sometimes Frontend => React | Tailwind | TS/JS | Html/CSS
 
 ---
 
@@ -49,7 +63,7 @@ loop {
 - Breaking Arch and reinstalling it
 - Commit messages: "fixed stuff", "updates", "nice"
 - Pushing directly to main.
-- Binge Mental Outlaw and Louis Rossmann instead of Theo.
+- Binge watch Mental Outlaw and Louis Rossmann instead of Theo.
 
 ---
 
@@ -60,11 +74,5 @@ loop {
 ![Privacy](https://img.shields.io/badge/tracking-absolutely%20not-red)
 
 ---
-
-```bash
-#!/bin/bash
-echo "I use Arch btw"
-# Tracks: nothing | Respects: your privacy
-```
 
 *Built with Rust. Typed with Monkeytype. Runs on Arch. Compiled with [rizz](https://www.github.com/exilonium/rizz)
