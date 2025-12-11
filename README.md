@@ -4,15 +4,9 @@
 
 ```bash
 #!/bin/bash
-echo "I use Arch btw"
+echo "I use Arch BTW"
 # Tracks: nothing | Respects: your privacy
 ```
-
-**OS:** Arch Linux BTW (UwU)
-
-**Fixing:** `linux.exe stopped responding`
-
-**Status:** `cargo build --release` ☕
 
 ---
 
