@@ -56,7 +56,7 @@ loop {
 
 ---
 
-## 🎯 Honest Skills
+## Honest Skills
 
 - Writing bugs at 67 WPM
 - Fighting the borrow checker (losing record: 4-20)
@@ -64,14 +64,6 @@ loop {
 - Commit messages: "fixed stuff", "updates", "nice"
 - Pushing directly to main.
 - Binge watch Mental Outlaw and Louis Rossmann instead of Theo.
-
----
-
-## 📊 Stats
-
-![Status](https://img.shields.io/badge/code-it%20compiles-success)
-![Speed](https://img.shields.io/badge/monkeytype-procrastination%20tool-blue)
-![Privacy](https://img.shields.io/badge/tracking-absolutely%20not-red)
 
 ---
 
