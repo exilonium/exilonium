@@ -1,7 +1,5 @@
 # Hey there
 
----
-
 ```bash
 #!/bin/bash
 echo "I use Arch BTW"
