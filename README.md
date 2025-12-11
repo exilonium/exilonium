@@ -20,7 +20,7 @@ Bash when I feel like penguin
 
 ---
 
-## Projects I Made (~with claude~)
+## Projects I (~claude~ 🔫) Made
 
 - [music-cli](https://www.github.com/exilonium/music-cli) - A simple cli music streamer upto 320kbps.
 - [Post-Notifier](https://postnotifier.vercel.app) - A Reddit tool to notify whenever there's a new post on a subreddit
