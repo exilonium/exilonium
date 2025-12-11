@@ -6,8 +6,6 @@ echo "I use Arch BTW"
 # Tracks: nothing | Respects: your privacy
 ```
 
----
-
 ## About Me
 
 ```
@@ -17,8 +15,6 @@ Bash when I feel like penguin
 ```
 
 **Stack:** Python | Rust 🦀 | Bash | Sometimes Frontend => React | Tailwind | TS/JS | Html/CSS
-
----
 
 ## Projects I (~claude~ 🔫) Made
 
@@ -43,8 +39,6 @@ loop {
     }
 }
 ```
-
----
 
 ## Honest Skills
 
