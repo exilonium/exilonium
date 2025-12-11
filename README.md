@@ -33,7 +33,7 @@ read privacy policies for fun.
 ## Projects I Made (~with claude~)
 
 - [music-cli](https://www.github.com/exilonium/music-cli) - A simple cli music streamer upto 320kbps.
-- [Post-Notifier](https://www.github.com/exilonium/PostNotifier) - A tool to notify (via webhook) whenever there's a new post on a subreddit
+- [Post-Notifier](https://postnotifier.vercel.app) - A Reddit tool to notify whenever there's a new post on a subreddit
 - [rizz](https://www.github.com/exilonium/rizz) - A simple interpreter written in rust for gen-z generation
 - [RustShell](https://www.github.com/exilonium/RustShell) - A minimal Linux shell implementation using rust
 - [ShowKey](https://www.github.com/exilonium/ShowKey) - Bash wrapper to show the keyboard inputs to the terminal.
