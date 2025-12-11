@@ -16,7 +16,7 @@ I write Python when I need things done and Rust when I want to feel smart. I spe
 
 ---
 
-## Projects I made (~Made with Claude~)
+## Projects I Made (~with claude~)
 
 - [music-cli](https://www.github.com/exilonium/music-cli) - A simple cli music streamer upto 320kbps.
 - [Post-Notifier](https://www.github.com/exilonium/PostNotifier) - A tool to notify (via webhook) whenever there's a new post on a subreddit
