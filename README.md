@@ -1,7 +1,9 @@
 # Hey there
 
 **OS:** Arch Linux (btw)
+
 **Fixing:** `linux.exe stopped responding`
+
 **Status:** `cargo build --release` ☕
 
 ---
