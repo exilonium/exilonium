@@ -19,11 +19,9 @@ echo "I use Arch btw"
 ## About Me
 
 ```
-I write Python when I need things done and
-Rust when I want to feel smart.
-I spend more time on Monkeytype than actually typing code,
-watch anime while waiting for compilation,and
-read privacy policies for fun.
+I write Python when I need things done,
+Rust when I want to feel smart and 
+Bash when I feel like penguin
 ```
 
 **Stack:** Python | Rust 🦀 | Bash | Sometimes Frontend => React | Tailwind | TS/JS | Html/CSS
