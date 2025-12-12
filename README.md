@@ -24,6 +24,7 @@ Bash when I feel like penguin
 - [RustShell](https://www.github.com/exilonium/RustShell) - A minimal Linux shell implementation using rust
 - [ShowKey](https://www.github.com/exilonium/ShowKey) - Bash wrapper to show the keyboard inputs to the terminal.
 - [NumberStealerTelegram](https://www.github.com/exilonium/NumberStealerTelegram) - a simple telegram bot to send the user's phone number to the webhook.
+- [MultiReddit-Poster](https://www.github.com/exilonium/MultiRedditPoster) - a tool to do reddit posts automatically in a predefined manner.
 
 ---
 
@@ -34,6 +35,7 @@ loop {
     match activity {
         Code => break_things_then_fix_them(),
         Break => watch_anime(jk_watch_primeagean),
+        Sleep => sleep_exe_is_not_responding(),
         Warmup => monkeytype_for_three_hours(),
         _ => rice_arch_again(),
     }
