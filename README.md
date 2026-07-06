@@ -2,29 +2,29 @@
   <a href="https://github.com/exilonium"><img src="https://img.shields.io/github/followers/exilonium?label=Follow&style=social" alt="Click Follow Button"></a>
 </h1>
 
-<table border="0" cellspacing="0" cellpadding="0" >
-<tr>
-<td valign="top" width="40%" align="center" style="border: none; padding: 0px;">
-<img src="assets/taki.jpg" />
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; border-top: none;">
+<tr style="border: none;">
+<td valign="top" width="40%" align="center" style="border: none; border-top: none; padding: 0px;">
+<img style="border-radius:10px;" src="assets/taki.jpg" />
 <div style="display: flex; justify-content: space-between; color: #CDD6F4;">
-<span style="font-size: 10px; color: #A6ADC8;">$&gt; ssh urmom@127.0.0.1</span>
+<span style="font-size: 10px; color: #A6E3A1;">$&gt; ssh <span style="font-size: 10px; color: #A6ADC8;"> urmom@127.0.0.1</span></span>
 <span style="color: #CDD6F4;">grass is always greener</span>
 </div>
 </td>
 <td valign="middle" align="center" style="border: none; padding: 2px; color: #CDD6F4;">
 
-I'm Just Curious and Brave Enough To Make And Break Stuff
+<span style="font-size: 14px; color: #CDD6F4;">Just curious & brave enough to make and break stuff</span>
 
-eX-Software Intern **<span style="color: #7F77DD;">EHM@IITKanpur</span>**
+<span style="font-size:12px">eX-Software Intern</span> **<span style="color: #CBA6F7;">EHM@IITKanpur</span>**
 
 Arch + [Hyprland](https://github.com/hyprwm/hyprland)
 
 </td>
 <td valign="top" width="40%" align="center" style="border: none; padding: 0px;">
-<img src="assets/mitsuha.jpg" />
+<img style="border-radius:10px;" src="assets/mitsuha.jpg" />
 <div style="display: flex; justify-content: space-between; color: #CDD6F4;">
 <span style="color: #CDD6F4;">on the side i fall onto.</span>
-<span style="font-size: 10px; color: #A6ADC8;">send disconnet: Broken Pipe</span>
+<span style="font-size: 10px; color: #A6ADC8;">send disconnet: <span style="color:#F38BA8">Broken Pipe</span></span>
 <!-- <span style="font-size: 10px; color: #A6ADC8;">I ❤️ CyberSec :3</span> -->
 </div>
 </td>
