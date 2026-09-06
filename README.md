@@ -15,10 +15,10 @@
 <!---->
 <!-- <span style="font-size: 14px; color: #CDD6F4;">Just curious & brave enough to make and break stuff</span> -->
 <!---->
-<!-- <span style="font-size:12px">eX-Software Intern</span> **<span style="color: #CBA6F7;">EHM@IITKanpur</span>** -->
+<!-- <span style="font-size:12px">Software Intern</span> **<span style="color: #CBA6F7;">LENEK@IITKanpur</span>** -->
+<!-- <span style="font-size:10px">eX-Intern</span> **<span style="color: #4c699f; font-size:10px">EHM@IITKanpur</span>** -->
 <!---->
-<!-- Arch + [Hyprland](https://github.com/hyprwm/hyprland) -->
-<!---->
+<!-- Arch + Hyprland -->
 <!-- </td> -->
 <!-- <td valign="top" width="40%" align="center" style="border: none; padding: 0px;"> -->
 <!-- <img style="border-radius:10px;" src="assets/mitsuha.jpg" /> -->
